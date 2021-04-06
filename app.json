@@ -1,0 +1,12 @@
+{
+  "name": "Caloriefy",
+  "displayName": "Caloriefy",
+  "expo": {
+    "name": "Caloriefy",
+    "slug": "Caloriefy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
